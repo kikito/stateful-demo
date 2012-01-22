@@ -1,0 +1,7 @@
+h1. Stateful.lua demo
+
+This is a small demo for "LÖVE":http://love2d.org demonstrating some of my libs, the most prominent ones:
+
+* "middleclass":https://github.com/kikito/middleclass
+* "stateful.lua":https://github.com/kikito/stateful.lua
+* "cron.lua":https://github.com/kikito/cron.lua
